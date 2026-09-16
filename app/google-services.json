@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702808111845",
+    "project_id": "mydocs-32a19",
+    "storage_bucket": "mydocs-32a19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702808111845:android:e8b909059f62ba144e720c",
+        "android_client_info": {
+          "package_name": "com.example.mydocs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgESsxXEfaBbkF097CF-Vw2KWBuG9Qn7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
